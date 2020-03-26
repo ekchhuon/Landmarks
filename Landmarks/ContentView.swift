@@ -24,7 +24,7 @@ struct ContentView: View {
                 HStack {
                     Text("Joshua Tree National Park")
                     Spacer()
-                    Text("California Test")
+                    Text("California Test.")
                 }
             }
             .padding()
